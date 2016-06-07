@@ -80,6 +80,7 @@ exports.botguide = '';
 * Otros
 */
 
+exports.debuglevel = 3;
 exports.watchconfig = false;
 exports.secprotocols = [];
 exports.whitelist = [];
