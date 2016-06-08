@@ -13,11 +13,11 @@
 * establecer el puerto a '8000'
 */
 
-exports.server = 'serverexample-kevinxzllz.rhcloud.com';
+exports.server = 'sun-bailong2.rhcloud.com-80.psim.us';
 
 exports.port = 8000;
 
-exports.serverid = 'serverexample-kevinxzllz.rhcloud.com:80';
+exports.serverid = 'sun-bailong2.rhcloud.com-80.psim.us';
 
 /*
 * Datos de Usuario
@@ -28,8 +28,8 @@ exports.serverid = 'serverexample-kevinxzllz.rhcloud.com:80';
 * de showdown registrada
 */
 
-exports.nick = ''; // EJ: exports.nick = 'Mr.Bottt';
-exports.pass = ''; // EJ: exports.pass = '1234567890';
+exports.nick = 'HelioBoT'; // EJ: exports.nick = 'Mr.Bottt';
+exports.pass = 'apolo'; // EJ: exports.pass = '1234567890';
 
 /*
 * Salas privadas y publicas
@@ -53,13 +53,13 @@ exports.privaterooms = []; //Salas Privadas
 * OJO: No uses el "/".
 */
 
-exports.commandcharacter = '.';
+exports.commandcharacter = ',';
 
 /*
 * Excepciones
 */
 
-exports.excepts = ['kevinxzllz'];
+exports.excepts = ['bailong2'];
 
 /*
 * Rango limite de moderacion
